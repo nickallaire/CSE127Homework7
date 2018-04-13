@@ -1,3 +1,3 @@
-# CSE127: Introduction to Computer Security Homework 7
+# CSE 127: Introduction to Computer Security Homework 7
 
 Project Overview: A simple micr-blogging Web application called Chattr, implemented in PHP with a PostgreSQL backend database. This application allows users to sign up/login and post messages to their page. There is also the option to search for other users and see their board by adding ?user=test to the end of the URL, and changing test to whatever username you want to search. If the user exists you will see their posts or be told the user doesn't exist. The application also protects against SQL injection, cross-site scripting, and cross-site forgery attacks.
